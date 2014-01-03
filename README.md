@@ -14,6 +14,12 @@ This requires that AutoIT is installed. You can get that from http://www.autoits
 TODO
 
 1) Add a Gui
+
 2) Add a DB so that it remembers what it has already retrieved
+
 3) Add ability to dump to folder where your torrent watch folder is located
-4) Anything else I can think of
+
+4) If a higher resolution of a movie is released grab the new resolution and replace the older on
+
+5) Anything else I can think of
+
