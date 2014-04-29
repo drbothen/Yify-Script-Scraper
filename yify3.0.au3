@@ -18,7 +18,7 @@
 #include <ListBoxConstants.au3>
 
 ; Setting Standard Varibles for the Website
-Global $sDomain = "yify-torrents.com" ; Sets website
+Global $sDomain = "yts.re" ; Sets website
 Global $Quality = "720p"
 Global $Quality1 = "1080p"
 Global $Quality2 = "480p"
